@@ -1,9 +1,21 @@
 p {
   color: #ff0000;
 }
+
+#intro {
+color: #000ff;
+}
+
+.spotlight {
+background-color: #fefe22;
+}
+
 h1 {
 		color:#00ff00;
 		text-transform: uppercase;
+       margin:20px;
+       padding:40px;
+       border:10px #000000 dashed;
 }
   
 h2 {
